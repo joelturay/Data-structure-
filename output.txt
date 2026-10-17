@@ -1,0 +1,39 @@
+17
+-----
+24
+-----
+4
+-----
+20
+-----
+21
+-----
+7
+-----
+13
+-----
+4
+-----
+2.5
+-----
+11
+-----
+-20
+-----
+Error: Division by zero: 6 / 0 is not allowed
+-----
+Error: Missing closing bracket ')' - an opening bracket '(' was never closed
+-----
+Error: Extra closing bracket ')' - there is no '(' to match it
+-----
+Error: The expression ends with '+' - a number is missing after it
+-----
+Error: Operator '*' is in the wrong place - a number was expected here
+-----
+Error: Two numbers are next to each other - an operator is missing between them
+-----
+Error: Empty brackets '()' - there is nothing to calculate inside them
+-----
+Error: Unknown character '&' - only numbers, + - * / and brackets are allowed
+-----
+Error: '1.2.3' is not a valid number
